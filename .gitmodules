@@ -1,9 +1,1 @@
-[submodule "shap_e"]
-	path = shap_e
-	url = https://github.com/openai/shap-e.git
-[submodule "test_dir/shap_e"]
-	path = test_dir/shap_e
-	url = https://github.com/openai/shap-e.git
-[submodule "test_dir_2/shap_e"]
-	path = test_dir_2/shap_e
-	url = https://github.com/openai/shap-e.git
+
